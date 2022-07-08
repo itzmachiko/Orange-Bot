@@ -1,5 +1,5 @@
 # Orange-Bot
-A bot that react to every message sent in a channel with a orange.
+A bot that react to every message sent in a channel with an orange.
 ### Special Thanks To My Friends For The Idea
 [เล่นดิสเกือบเป็น#1287][te]
 
