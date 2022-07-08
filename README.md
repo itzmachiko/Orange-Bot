@@ -5,7 +5,7 @@ A bot that react to every message sent in a channel with a orange.
 
 [Tangmo#1834][mo]
 
-<img src="https://cdn.discordapp.com/attachments/933299460530929704/943402836417474560/unknown.png" />
+<img src="https://itzmachiko.tk/img/github/Screenshot 2022-02-14 1828340.png" />
 
 [mo]: https://discord.com/users/833903118701166632
 [te]: https://discord.com/users/881079892433862676
